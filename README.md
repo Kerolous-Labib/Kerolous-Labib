@@ -34,11 +34,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Kerolous-Labib/student-management-system"><b>Student Management System (C Project)</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/Kerolous-Labib/student-management-system?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/forks/Kerolous-Labib/student-management-system?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues/Kerolous-Labib/student-management-system?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/Kerolous-Labib/student-management-system?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Kerolous-Labib/Student-Mangament-System.git"><b>Student Management System (C Project)</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/Kerolous-Labib/Student-Mangament-System.git?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/forks/Kerolous-Labib/Student-Mangament-System.git?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/issues/Kerolous-Labib/Student-Mangament-System.git?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/issues-pr/Kerolous-Labib/Student-Mangament-System.git?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Kerolous-Labib/embedded-systems-playground"><b>Embedded Systems Playground</b></a></td>
