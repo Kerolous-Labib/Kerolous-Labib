@@ -35,17 +35,10 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/Kerolous-Labib/Student-Mangament-System.git"><b>Student Management System (C Project)</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/Kerolous-Labib/Student-Mangament-System.git?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/forks/Kerolous-Labib/Student-Mangament-System.git?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues/Kerolous-Labib/Student-Mangament-System.git?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/Kerolous-Labib/Student-Mangament-System.git?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Kerolous-Labib/embedded-systems-playground"><b>Embedded Systems Playground</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/Kerolous-Labib/embedded-systems-playground?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/forks/Kerolous-Labib/embedded-systems-playground?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues/Kerolous-Labib/embedded-systems-playground?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/Kerolous-Labib/embedded-systems-playground?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Kerolous-Labib/Student-Mangament-System?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Kerolous-Labib/Student-Mangament-System?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Kerolous-Labib/Student-Mangament-System?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Kerolous-Labib/Student-Mangament-System?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
